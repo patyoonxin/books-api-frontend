@@ -1,0 +1,10 @@
+{
+  "appId": "com.utm.books",
+  "appName": "books-app",
+  "webDir": "dist",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": false
+    }
+  }
+}
